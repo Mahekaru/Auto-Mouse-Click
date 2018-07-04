@@ -1,0 +1,23 @@
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\bin\Debug\auto Mouse click.exe
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\bin\Debug\auto Mouse click.pdb
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\bin\Debug\auto Mouse click.xml
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\auto_Mouse_click.frmAutoClick.resources
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\auto_Mouse_click.Resources.resources
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\auto Mouse click.exe
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\auto Mouse click.xml
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\auto Mouse click\obj\x86\Debug\auto Mouse click.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\bin\Debug\auto Mouse click.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\bin\Debug\auto Mouse click.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\bin\Debug\auto Mouse click.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto_Mouse_click.frmAutoClick.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto_Mouse_click.Resources.resources
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.vbproj.GenerateResource.Cache
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.exe
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.xml
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\auto Mouse click\auto Mouse click\obj\x86\Debug\auto Mouse click.pdb
